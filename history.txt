@@ -1,0 +1,111 @@
+    1  ls
+    2  ls/data
+    3  ls/data bioinfo.course.data command_line_course galaxy lost+found refs
+    4  ls /etc/perl CPAN Net XML
+    5  pwd
+    6  mkdir Learning_unix
+    7  ls
+    8  cd Learning_unix
+    9  mkdir Outer_directory 
+   10  cd Outer_directory
+   11  mkdir Inner_directory
+   12  cd Inner_directory/
+   13  cd /
+   14  cd home
+   15  cd /home/ubuntu/
+   16  cd home/MINGW/
+   17  cd /c/Users/27623
+   18  import pandas
+   19  git init
+   20  cd ..
+   21  cd ..
+   22  cd ..
+   23  cd ..
+   24  cd ..
+   25  git rm -git rm --cached Downloads/Amahle-Magaqa-429-bootcamp-writing-assignment-
+   26  cd ..
+   27  cd ..
+   28  git log
+   29  git add .
+   30  git reset
+   31  nano milkshakes.md
+   32  git commit -m "added initial flavours"
+   33  cd
+   34  cd "C:\Users\27623\Downloads\git-basic-exercises"
+   35  git branch
+   36  git branch milkshake-flavours
+   37  git branch milkshake-flavours 
+   38  git checkout milkshake-flavours
+   39  nano milkshakes.md
+   40  git commit -m "adedd initial flavours"
+   41  git add milkshakes.md
+   42  git commit -m "added initial flavours"
+   43  git status
+   44  git log 
+   45  git checkout README.md
+   46  git checkout -b README.md
+   47  git log 
+   48  git add 
+   49  nano README.md
+   50  git add README.md
+   51  git commit -m "third commit"
+   52  git log 
+   53  git rm unwanted-milkshakes.md
+   54  git rm -milkshakes.md
+   55  git rm -- milkshakes.md
+   56  git log 
+   57  git rm --cached milkshakes.md
+   58  git log 
+   59  git checkout -b "C:\Users\27623\Downloads\git-basic-exercises"
+   60  nano README.md
+   61  git add README.md
+   62  git commit -m "random readme changes"
+   63  git log 
+   64  history
+   65  cat README.md
+   66  rm README.md
+   67  echo "booya" > README.md
+   68  git commit -m "rewrote readme"
+   69  rm README.md echo "booya" > README.md
+   70  history
+   71  cat README.md
+   72  git checkout master 
+   73  rm README.md echo "booya" > README.md
+   74  git commit -m "rewrote readme"
+   75  rm README.md
+   76  nano master 
+   77  cat README.md
+   78  cat master
+   79  git commit -m "rewrote readme"
+   80  git add 
+   81  git add .
+   82  git commit -m "rewrote readme"
+   83  git log 
+   84  ls
+   85  gti checkout master
+   86  git checkout master
+   87  ls
+   88  git log 
+   89  git checkout milkshake-flavours
+   90  ls
+   91  git checkout git-basic-exercises
+   92  git checkout "C:\Users\27623\Downloads\git-basic-exercises"
+   93  git log 
+   94  git checkout history 
+   95  git checkout main
+   96  git checkout master
+   97  git merge milkshake-flavours
+   98  ls
+   99  git log 
+  100  git merge history
+  101  git checkout README.md
+  102  got log 
+  103  git log 
+  104  git checkout milkshak-flavours
+  105  git checkout milkshake-flavours
+  106  git log 
+  107  git checkout master 
+  108  git branch history
+  109  git checkout history
+  110  git log 
+  111  history > history.txt
