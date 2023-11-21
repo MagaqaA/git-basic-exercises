@@ -1,1 +1,1 @@
-The sky is blue .
+Changes made. 
